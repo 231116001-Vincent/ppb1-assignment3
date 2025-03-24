@@ -1,2 +1,3 @@
-# ppb1-assignment3
-Pemrograman Perangkat Bergerak 1 - Assignment 3
+# Assignment 3
+Assignment 3 kelas Pemrograman Perangkat Bergerak 1  
+"Latihan XML Based Layout"
