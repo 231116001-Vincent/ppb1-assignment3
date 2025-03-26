@@ -5,4 +5,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="grey500">#FF202020</color>
     <color name="grey">#FF303030</color>
+    <color name="grey300">#FF505050</color>
+    <color name="grey200">#FF808080</color>
+    <color name="grey100">#FFAEAEAE</color>
+    <color name="lightGrey">#FFCCCCCC</color>
+    <color name="lightGrey100">#FFF0F0F0</color>
+    <color name="mint">#FF29BD96</color>
 </resources>

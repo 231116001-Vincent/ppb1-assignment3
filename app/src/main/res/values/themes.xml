@@ -3,6 +3,9 @@
     <style name="Base.Theme.Assignment3" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/mint</item>
+        <item name="colorSurface">@color/lightGrey100</item>
+        <item name="colorSurfaceContainer">@color/lightGrey</item>
     </style>
 
     <style name="Theme.Assignment3" parent="Base.Theme.Assignment3" />

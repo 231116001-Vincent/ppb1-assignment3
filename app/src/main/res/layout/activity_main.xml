@@ -37,6 +37,8 @@
             android:hint="Write message here..."
             android:textSize="16sp"
             android:background="@drawable/input_background"
+            android:maxLines="1"
+            android:inputType="text"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"/>
